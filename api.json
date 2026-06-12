@@ -1,0 +1,180 @@
+{
+   "person.person": {
+      "157455": {
+         "ad_dochistory_set": {},
+         "ad_document_set": {},
+         "alias": {
+            "125385": {
+               "name": "S\u00e9riki Y\u00e1k\u00fab",
+               "person": 157455
+            },
+            "125386": {
+               "name": "Seriki yakub",
+               "person": 157455
+            },
+            "125387": {
+               "name": "Seriki yakub",
+               "person": 157455
+            },
+            "125388": {
+               "name": "S\u00e9riki Y\u00e1k\u00fab",
+               "person": 157455
+            },
+            "141276": {
+               "name": "Seriki Walter Yakub",
+               "person": 157455
+            },
+            "141277": {
+               "name": "Seriki Yakub",
+               "person": 157455
+            }
+         },
+         "allowlisted": {},
+         "apikeys": {
+            "5251": {
+               "count": 0,
+               "created": "2025-10-30T03:55:08.717Z",
+               "endpoint": "/api/appauth/bibxml",
+               "latest": null,
+               "person": 157455,
+               "salt": "6DurpydcT7WFljVz",
+               "valid": true
+            },
+            "5252": {
+               "count": 0,
+               "created": "2025-10-30T03:55:15.448Z",
+               "endpoint": "/api/appauth/authortools",
+               "latest": null,
+               "person": 157455,
+               "salt": "Qsf9RsmVQ1C/LNWf",
+               "valid": true
+            },
+            "6019": {
+               "count": 0,
+               "created": "2026-05-03T12:39:57.766Z",
+               "endpoint": "/api/appauth/authortools",
+               "latest": null,
+               "person": 157455,
+               "salt": "I+LLiTf/TTiXYSL1",
+               "valid": true
+            },
+            "6020": {
+               "count": 0,
+               "created": "2026-05-03T13:30:57.612Z",
+               "endpoint": "/api/appauth/bibxml",
+               "latest": null,
+               "person": 157455,
+               "salt": "lDsAM5c9Qm2xn/2u",
+               "valid": true
+            },
+            "6021": {
+               "count": 0,
+               "created": "2026-05-03T13:31:01.937Z",
+               "endpoint": "/api/appauth/bibxml",
+               "latest": null,
+               "person": 157455,
+               "salt": "wFfmCs3rRo+sKMoI",
+               "valid": true
+            },
+            "6204": {
+               "count": 0,
+               "created": "2026-06-12T00:27:19.947Z",
+               "endpoint": "/api/appauth/bibxml",
+               "latest": null,
+               "person": 157455,
+               "salt": "CaQhDja/TTmzCyNB",
+               "valid": true
+            },
+            "6205": {
+               "count": 0,
+               "created": "2026-06-12T00:27:33.296Z",
+               "endpoint": "/api/appauth/authortools",
+               "latest": null,
+               "person": 157455,
+               "salt": "kwVynVz4R/Cd0n4A",
+               "valid": true
+            }
+         },
+         "ascii": "Seriki yakub",
+         "ascii_short": "",
+         "ballotpositiondocevent": {},
+         "biography": "",
+         "communitylist": {},
+         "constraint": {},
+         "deletedevent": {},
+         "docevent": {},
+         "documentauthor": {},
+         "email": {
+            "active": true,
+            "origin": "kubulee.kl@gmail.com",
+            "person": 157455,
+            "primary": true,
+            "time": "2025-10-20T23:27:26.683Z"
+         },
+         "email_set": {
+            "Kubucoin@proton.me": {
+               "active": true,
+               "origin": "kubulee.kl@gmail.com",
+               "person": 157455,
+               "primary": false,
+               "time": "2025-11-07T16:12:42.697Z"
+            },
+            "kubulee.kl@gmail.com": {
+               "active": true,
+               "origin": "kubulee.kl@gmail.com",
+               "person": 157455,
+               "primary": true,
+               "time": "2025-10-20T23:27:26.683Z"
+            }
+         },
+         "groupevent": {},
+         "iprdisclosurebase": {},
+         "iprevent": {},
+         "liaisonstatementevent": {},
+         "meetingregistration": {},
+         "message": {},
+         "name": "Seriki Walter Yakub",
+         "name_from_draft": null,
+         "nextreviewerinteam": {},
+         "nominee": {},
+         "personevent": {},
+         "personextresource_set": {},
+         "photo": "",
+         "photo_thumb": "",
+         "plain": "",
+         "preapproval": {},
+         "pronouns_freetext": null,
+         "pronouns_selectable": [
+            "he/him"
+         ],
+         "reviewersettings": {},
+         "reviewrequest": {},
+         "reviewsecretarysettings": {},
+         "reviewwish": {},
+         "rfcauthor": {},
+         "role": {},
+         "rolehistory": {},
+         "schedule": {},
+         "schedulingevent": {},
+         "searchrule": {},
+         "sendqueue": {},
+         "submissionevent": {},
+         "time": "2025-10-20T23:27:26.632Z",
+         "topicfeedbacklastseen": {},
+         "unavailableperiod": {},
+         "user": {
+            "date_joined": "2025-10-20T23:27:26.553Z",
+            "email": "kubulee.kl@gmail.com",
+            "first_name": "",
+            "groups": [],
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false,
+            "last_login": "2026-06-12T00:24:24.977Z",
+            "last_name": "",
+            "user_permissions": [],
+            "username": "kubulee.kl@gmail.com"
+         }
+      }
+   }
+}
